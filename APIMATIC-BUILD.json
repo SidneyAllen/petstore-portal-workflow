@@ -6,7 +6,7 @@
             "publishReport": true
         },
         "pageTitle": "PetStore Docs as Code Portal",
-        "navTitle": "My Navigation Title",
+        "navTitle": "Sid's Super Petstore",
         "logoUrl": "static/images/logo-petstore.png",
         "logoLink": "https://www.apimatic.io",
         "languageConfig": {
