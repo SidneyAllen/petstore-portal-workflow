@@ -7,7 +7,7 @@
         },
         "pageTitle": "PetStore Docs as Code Portal",
         "navTitle": "My Navigation Title",
-        "logoUrl": "static/images/logo.png",
+        "logoUrl": "static/images/logo-petstore.png",
         "logoLink": "https://www.apimatic.io",
         "languageConfig": {
             "http": {},
